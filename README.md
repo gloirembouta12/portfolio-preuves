@@ -2,7 +2,7 @@
 # Portfolio – 
 
 Ce dépôt contient l’ensemble des preuves (photos, vidéos, documents)
-associées à mon portfolio de BTS CIEL option A – Informatique et Réseaux.
+associées à mon portfolio  – Informatique et Réseaux.
 
 ## Contenu du dépôt
 - Réseau : travaux pratiques, schémas, tests de connectivité
